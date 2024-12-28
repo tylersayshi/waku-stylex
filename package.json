@@ -15,10 +15,14 @@
     "waku": "0.21.11"
   },
   "devDependencies": {
+    "@stylexjs/stylex": "^0.9.3",
     "@types/react": "19.0.2",
     "@types/react-dom": "19.0.2",
     "autoprefixer": "10.4.20",
     "tailwindcss": "3.4.17",
-    "typescript": "5.7.2"
-  }
+    "typescript": "5.7.2",
+    "vite": "^6.0.6",
+    "vite-plugin-stylex": "^0.13.0"
+  },
+  "packageManager": "pnpm@9.15.1"
 }
